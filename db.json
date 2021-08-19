@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "name": "login",
+      "password": "password",
+      "id": 2
+    },
+    {
+      "uname": "login",
+      "password1": "password",
+      "id": 3
+    },
+    {
+      "name": "login",
+      "password": "password",
+      "id": 4
+    },
+    {
+      "uname": "login",
+      "upassword": "password",
+      "id": 5
+    },
+    {
+      "uname": "login",
+      "upassword": "password",
+      "id": 6
+    },
+    {
+      "uname": "username",
+      "upassword": "password",
+      "id": 7
+    },
+    {
+      "uname": "test",
+      "upassword": "testing",
+      "id": 8
+    },
+    {
+      "uname": "test",
+      "upassword": "testing123",
+      "id": 9
+    },
+    {
+      "uname": "hello",
+      "upassword": "hello123",
+      "id": 10
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
